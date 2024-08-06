@@ -13,7 +13,7 @@ const multer = Multer({
 const connection = mysql.createConnection({
     host: '34.50.64.36',
     user: 'root',
-    database: 'money-tracker-db',
+    database: 'money_tracker_db',
     password: 'qwerty'
 })
 
